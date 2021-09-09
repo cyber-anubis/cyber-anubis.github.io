@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "N1ght-W0lf"
+title                    : "Cyber-Anubis"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Abdallah Elshinbary"
-description              : "Malware Analysis - Reverse Engineering - Exploit Development"
+name                     : "Nidal Fikri"
+description              : "Malware Analysis - Reverse Engineering"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdallah Elshinbary"
+  name             : "Nidal Fikri"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware Analysis & Reverse Engineering Adventures"
-  location         : "Area 51"
+  bio              : "Malware Analysis Reverse Engineering"
+  location         : "Egypt"
   email            :
   links:
     - label: "Email"
