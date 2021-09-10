@@ -6,7 +6,7 @@ main:
    # url: /categories/#binary-exploitation
   #- title: "CTF Writeups"
   #  url: /categories/#ctf-writeups
-  #- title: "Tutorials"
+  - title: "Tutorials"
    # url: /categories/#tutorials
   - title: "All Categories"
     url: /categories
