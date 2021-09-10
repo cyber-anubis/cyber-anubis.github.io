@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Nidal Fikri"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware Analysis Reverse Engineering"
+  bio              : "Malware Analysis and Reverse Engineering"
   location         : "Egypt"
   email            :
   links:
