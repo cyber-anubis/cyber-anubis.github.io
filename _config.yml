@@ -20,7 +20,7 @@ title                    : "Cyber-Anubis"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nidal Fikri"
-description              : "Malware Analysis RE - Open to new positions!"
+description              : "Malware Analysis RE"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Nidal Fikri"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware Analysis and Reverse Engineering"
+  bio              : "Malware Analysis - Open to new positions!"
   location         : "Egypt"
   email            :
   links:
