@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Nidal Fikri"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hatching Triage Malware Research Analyst. Ex-Trend Micro Intern. "
-  location         : "Egypt"
+  bio              : "Malware Research Analyst at Recorded Future. Former Trend Micro Intern."
+  location         : "The Netherlands"
   email            :
   links:
     - label: "About Me"
