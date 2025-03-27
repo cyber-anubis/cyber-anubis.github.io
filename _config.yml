@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Cyber-Anubis"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nidal Fikri"
+name                     : "Nidal Kamil"
 description              : "Malware Analysis RE"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nidal Fikri"
+  name             : "Nidal Kamil"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Research Analyst at Recorded Future. Former Trend Micro Intern."
   location         : "The Netherlands"
@@ -107,7 +107,7 @@ author:
       url: "mailto:nidalfikrikamil@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cyber_anubis"
+      url: "https://x.com/NidalSec"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
